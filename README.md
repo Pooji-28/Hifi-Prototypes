@@ -3,5 +3,5 @@
 # I created a hifi figma prototype.
 # I created a new figma prototype on my own.
 DISCLAIMER:
-This pictures I used is taken from the website for the Project purposes.
+The pictures I used is taken from other website for the Project purposes.
 Thank you for Viewing my website.
